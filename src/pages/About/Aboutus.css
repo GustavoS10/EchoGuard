@@ -1,0 +1,30 @@
+#About{
+    margin-top: 15rem;
+    margin-bottom: 15rem;
+}
+#About .About{
+    text-align: center;
+}
+#About .About h1{
+    display: inline-block; /* Isso garante que a borda tenha o tamanho do texto */
+    border-bottom: 2px solid black; /* Aqui você define a espessura e a cor da borda */
+    padding-bottom: 1rem; /* Opcional: adiciona um espaço entre o texto e a borda */
+    margin-bottom: 3rem;
+    font-size: 36px;
+    font-weight: bold;
+}
+#About .About div{
+    margin: 0 auto;
+}
+#About .About div p{
+    font-size: 18px;
+    font-weight: lighter;
+    color: #7D7987;
+}
+#About .Carroussel{
+    background-color: pink;
+    padding: 4rem;
+    display: center;
+    justify-content: center;
+    align-items: center;
+}

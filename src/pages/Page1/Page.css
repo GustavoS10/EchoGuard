@@ -1,0 +1,61 @@
+#ContainerFluid{
+    padding-top: 12rem;
+    padding-left: 3rem;
+    display: flex;
+    justify-content: start;
+    text-align: start;
+}
+#ContainerFluid #tittles{
+    max-width: 50%;
+    padding: 5rem;
+    margin-left: 4rem;
+    /* background-color: red; */
+}
+#ContainerFluid #tittles h1{
+    font-weight: bold;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    font-style: mulish;
+}
+#ContainerFluid #tittles h2{
+    color: gray;
+    font-size: 20px;
+    max-width: 70%;
+    margin-bottom: 2rem;
+}
+#ContainerFluid #btnNews{
+    background-color: #458FF6;
+    border-color: #458FF6;
+    border: none;
+    padding: 1rem;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 1.5rem;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+#ContainerFluid #logo{
+    margin-left: 6rem;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+#ContainerFluid #logo #image{
+    width: 90%;
+}
+#ContainerFluid #logo #btnNews2{
+    background-color: #458FF6;
+    border-color: #458FF6;
+    border: none;
+    padding: 1rem;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-top: 1.5rem;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}

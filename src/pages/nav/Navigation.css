@@ -1,0 +1,20 @@
+.navbar {
+    padding-top: 2rem;
+    position: fixed;
+    background: linear-gradient(to right, #4facfe, #00f2fe);
+}
+
+.navbar .container-fluid .navbar-nav .nav-item {
+    background-color: gray;
+    display: flex;
+}
+
+.navbar .nav-link {
+    color: black; /* Define a cor preta para os links */
+    text-decoration: none; /* Remove sublinhado dos links */
+    font-size: 1.25rem; /* Aumenta o tamanho dos links */
+}
+
+.navbar .nav-link:hover {
+    color: #333; /* Opcional: muda a cor ao passar o mouse */
+}

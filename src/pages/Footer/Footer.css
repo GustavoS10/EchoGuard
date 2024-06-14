@@ -1,0 +1,35 @@
+.footer {
+    background: linear-gradient(to right, #4facfe, #00f2fe);
+    padding: 20px 0;
+    color: white;
+    margin-top: 15rem;
+  }
+  
+  .footer-title {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .footer-text {
+    margin-bottom: 20px;
+  }
+  
+  .footer-copy {
+    font-size: 0.8em;
+    margin-top: 20px;
+  }
+  
+  .footer-heading {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .footer-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-list li {
+    margin-bottom: 10px;
+  }
+  

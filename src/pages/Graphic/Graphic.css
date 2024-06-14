@@ -1,0 +1,18 @@
+.Carousel{
+    text-align: center;
+    margin-top: 7rem;
+}
+.Carousel h1{
+    font-size: 36px;
+    font-weight: bold;
+}
+.Carousel .carousel{
+    margin-top: 7rem;
+}
+.Carousel .carousel-image {
+    width: 30%;
+    height: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

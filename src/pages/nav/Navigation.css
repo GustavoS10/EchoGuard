@@ -9,6 +9,9 @@
     display: flex;
 }
 
+.navbar .container-fluid .navbar-brand{
+    color: #FFFFFF
+}
 .navbar .nav-link {
     color: #FFFFFF; /* Define a cor preta para os links */
     text-decoration: none; /* Remove sublinhado dos links */
